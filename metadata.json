@@ -1,0 +1,6 @@
+{
+  "name": "Patristic Concept Atlas",
+  "description": "A Source-Attested Genealogy of Concepts in Early Christianity with rigorous provenance, force-directed graph, passage snapshots, and bounded scholarly analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
